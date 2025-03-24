@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492173331554",
+    "project_id": "borbuddy-26940",
+    "storage_bucket": "borbuddy-26940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492173331554:android:2aea2078e9db8a7f7b953b",
+        "android_client_info": {
+          "package_name": "com.arulantony.borbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNy5UHJInemMQLCEYPVo9z70omKRdw8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
