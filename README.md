@@ -1,3 +1,6 @@
+BorBuddy - AI-Driven Social Media App | In_Progress
+.
+.
 # 📱 BorBuddy - AI-Driven Social Media App | In_Progress
 
 **BorBuddy** is a modern, AI-powered social media mobile application built with the goal of delivering a seamless and personalized user experience. 
